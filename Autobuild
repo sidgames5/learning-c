@@ -1,2 +1,2 @@
 #test_command ./a.out
-gcc day11.c
+gcc day12.c
