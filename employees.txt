@@ -1,0 +1,5 @@
+Name, Age, Position
+---------------------
+John, 30, Logistics
+Bob, 42, Accounting
+Kelly, 26, Customer Service
